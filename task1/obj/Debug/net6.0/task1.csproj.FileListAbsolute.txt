@@ -1,0 +1,15 @@
+/home/artem/geekbrains/seminars/seminarCsharp/seminar8/task1/obj/Debug/net6.0/task1.csproj.AssemblyReference.cache
+/home/artem/geekbrains/seminars/seminarCsharp/seminar8/task1/obj/Debug/net6.0/task1.GeneratedMSBuildEditorConfig.editorconfig
+/home/artem/geekbrains/seminars/seminarCsharp/seminar8/task1/obj/Debug/net6.0/task1.AssemblyInfoInputs.cache
+/home/artem/geekbrains/seminars/seminarCsharp/seminar8/task1/obj/Debug/net6.0/task1.AssemblyInfo.cs
+/home/artem/geekbrains/seminars/seminarCsharp/seminar8/task1/obj/Debug/net6.0/task1.csproj.CoreCompileInputs.cache
+/home/artem/geekbrains/seminars/seminarCsharp/seminar8/task1/bin/Debug/net6.0/task1
+/home/artem/geekbrains/seminars/seminarCsharp/seminar8/task1/bin/Debug/net6.0/task1.deps.json
+/home/artem/geekbrains/seminars/seminarCsharp/seminar8/task1/bin/Debug/net6.0/task1.runtimeconfig.json
+/home/artem/geekbrains/seminars/seminarCsharp/seminar8/task1/bin/Debug/net6.0/task1.dll
+/home/artem/geekbrains/seminars/seminarCsharp/seminar8/task1/bin/Debug/net6.0/ref/task1.dll
+/home/artem/geekbrains/seminars/seminarCsharp/seminar8/task1/bin/Debug/net6.0/task1.pdb
+/home/artem/geekbrains/seminars/seminarCsharp/seminar8/task1/obj/Debug/net6.0/task1.dll
+/home/artem/geekbrains/seminars/seminarCsharp/seminar8/task1/obj/Debug/net6.0/ref/task1.dll
+/home/artem/geekbrains/seminars/seminarCsharp/seminar8/task1/obj/Debug/net6.0/task1.pdb
+/home/artem/geekbrains/seminars/seminarCsharp/seminar8/task1/obj/Debug/net6.0/task1.genruntimeconfig.cache
